@@ -22,3 +22,5 @@
 
 ### Embedded Systems & Prototyping
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2020/09/arduino-logo-vector.png" alt="Arduino" width="40" height="40" title="Arduino"> </a> [Arduino](https://www.arduino.cc/) 
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://wewalab.com/wp-content/uploads/2017/08/Raspberry-Pi-Logo-01.png" alt="Raspberry Pi" width="40" height="40" title="Raspberry Pi"> </a> [Raspberry Pi](https://www.raspberrypi.com/)
+
