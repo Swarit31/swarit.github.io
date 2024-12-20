@@ -17,7 +17,7 @@ layout: default
 - GPA: 8.73/10
 - Advisor: Dr. P.D. Patil
 
-### Undergraduate Capstone: [_Testing Mechanical Properties of Human Femur Bone at Head Portion_](https://ijcrt.org/papers/IJCRT2205752.pdf)
+### [Undergraduate Thesis](https://ijcrt.org/papers/IJCRT2205752.pdf): _Testing Mechanical Properties of Human Femur Bone at Head Portion_
 - Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
 
 <a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
