@@ -9,8 +9,8 @@ layout: default
 - Advisor: [Dr. Murali Sundaram](https://scholar.google.com/citations?user=vXY-oQMAAAAJ&hl=en)
 - Awards: GIA Scholarship
 
-### [Graduate Thesis](https://www.proquest.com/openview/bbaece95cf031a67a70c1281177093cb/1?pq-origsite=gscholar&cbl=18750&diss=y): _Deep Reinforcement Learning Based Search and Capture with Erroneous Information_
-- Implemented the Double Deep Q-Network model with optimized reward function using TensorFlow to train an autonomous UAV to search and capture an intruder in a grid with erroneous information, achieving 97% success rate.
+### [Graduate Thesis]: _Photocatalyst Assisted Electrochemical Machining of Titanium_
+- Developed a novel Ultraviolet-assisted electrochemical machining method for titanium. Implemented Control system using Arduino as well as design of experiments executed to achieve enhanced material removal rate, better surface finish and lower overcut.
 
 ## B.E., Mechanical Engineering | Savitrbai Phule Pune University (_May 2022_)
 - First Class with Distinction
@@ -18,6 +18,6 @@ layout: default
 - Advisor: Dr. P.D. Patil
 
 ### [Undergraduate Thesis](https://ijcrt.org/papers/IJCRT2205752.pdf): _Testing Mechanical Properties of Human Femur Bone at Head Portion_
-- Developed a detailed kinematic model of an excavator’s backhoe manipulator through reverse engineering, implementing a C++-based simulation to capture joint movements, and bucket trajectory throughout its operation.
+- Studied mechanical properties of additively manufactured femur bone implant. A 3D computed tomography scan of actual bone to identify and record accurate dimension of patient;s bone. Further designed and optimizations done in the CAD model of the said bone. We analyzed mechanical properties and service life of the developed bone implant using benchmark properties of additively manufactured components as well as material properties.
 
 <a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
