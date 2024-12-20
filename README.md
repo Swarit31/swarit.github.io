@@ -19,4 +19,6 @@
 </a> [Python]("https://www.python.org")  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++">
 </a> [C++]("https://cplusplus.com/")  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" title="Matlab"> </a> [Matlab](https://www.mathworks.com/)
 <a href="(https://posit.co/download/rstudio-desktop/#)" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.5546e32a5f6d6143e16ad64788d42d4e?rik=k1R31NaAcp1J5Q&pid=ImgRaw&r=0" alt="RStudio" width="60" height="40" title="RStudio"> </a> [RStudio](https://posit.co/download/rstudio-desktop/#)
-### Manufacturing domains
+
+### Embedded Systems & Prototyping
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2020/09/arduino-logo-vector.png" alt="Arduino" width="40" height="40" title="Arduino"> </a> [Arduino](https://www.arduino.cc/) 
