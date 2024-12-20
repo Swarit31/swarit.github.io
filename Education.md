@@ -18,6 +18,6 @@ layout: default
 - Advisor: Dr. P.D. Patil
 
 ### [Undergraduate Thesis](https://ijcrt.org/papers/IJCRT2205752.pdf): _Testing Mechanical Properties of Human Femur Bone at Head Portion_
-- Studied mechanical properties of additively manufactured femur bone implant. A 3D computed tomography scan of actual bone to identify and record accurate dimension of patient;s bone. Further designed and optimizations done in the CAD model of the said bone. We analyzed mechanical properties and service life of the developed bone implant using benchmark properties of additively manufactured components as well as material properties.
+- Studied mechanical properties of additively manufactured femur bone implant. A 3D computed tomography scan of actual bone was performed to identify and record accurate dimension of patient's bone. Further designing and optimizations were done to the CAD model of the said bone. We analyzed mechanical properties and service life of the developed bone implant using benchmark properties of additively manufactured components as well as material properties.
 
 <a href="s-egk.github.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/111256/house.svg" alt="Home Page" width="40" height="40" title="Home Page"> </a>
