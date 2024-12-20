@@ -10,7 +10,7 @@
 <a href="https://www.autodesk.com/campaigns/autocad-family" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/-CWtkVw5As6M/AAAAAAAAAAI/AAAAAAAAAAA/3HtERh0dF-4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="AutoCad" width="40" height="40" title="SolidWorks"> </a> [AutoCad](https://www.autodesk.com/campaigns/autocad-family) 
 
 
-### Simulation Tool
+### Simulation
 <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png" alt="Ansys" width="40" height="40" title="Ansys"> </a> [Ansys](https://www.ansys.com/)
 <a href="https://www.comsol.com/" target="_blank" rel="noreferrer"> <img src="https://www.addlink.es/images/stories/virtuemart/product/logo_comsol_multiphysics_mascot.png" alt="Comsol Multiphysics" width="80" height="40" title="Comsol Multiphysics"> </a> [Comsol Multiphysics](https://www.comsol.com/comsol-multiphysics)
 
@@ -18,5 +18,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
 </a> [Python]("https://www.python.org")  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++">
 </a> [C++]("https://cplusplus.com/")  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" title="Matlab"> </a> [Matlab](https://www.mathworks.com/)
-
+<a href="(https://posit.co/download/rstudio-desktop/#)" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.5546e32a5f6d6143e16ad64788d42d4e?rik=k1R31NaAcp1J5Q&pid=ImgRaw&r=0" alt="Ansys" width="40" height="40" title="RStudio"> </a> [](https://posit.co/download/rstudio-desktop/#)
 ### Manufacturing domains
