@@ -21,6 +21,6 @@
 <a href="(https://posit.co/download/rstudio-desktop/#)" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.5546e32a5f6d6143e16ad64788d42d4e?rik=k1R31NaAcp1J5Q&pid=ImgRaw&r=0" alt="RStudio" width="60" height="40" title="RStudio"> </a> [RStudio](https://posit.co/download/rstudio-desktop/#)
 
 ### Embedded Systems & Prototyping
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2020/09/arduino-logo-vector.png" alt="Arduino" width="40" height="40" title="Arduino"> </a> [Arduino](https://www.arduino.cc/) 
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://wewalab.com/wp-content/uploads/2017/08/Raspberry-Pi-Logo-01.png" alt="Raspberry Pi" width="40" height="40" title="Raspberry Pi"> </a> [Raspberry Pi](https://www.raspberrypi.com/)
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2020/09/arduino-logo-vector.png" alt="Arduino" width="60" height="40" title="Arduino"> </a> [Arduino](https://www.arduino.cc/) 
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://wewalab.com/wp-content/uploads/2017/08/Raspberry-Pi-Logo-01.png" alt="Raspberry Pi" width="60" height="40" title="Raspberry Pi"> </a> [Raspberry Pi](https://www.raspberrypi.com/)
 
